@@ -1,0 +1,19 @@
+.form--login {
+  position: relative;
+}
+
+.logo--login {
+  border-radius: 50%;
+  height: 60px;
+  width: 60px;
+  position: absolute;
+  top: -30px;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.body--login {
+  background-color: #fffff;
+}
