@@ -1,6 +1,6 @@
 # Doro 🔥
 
-A simple MVC based "Posting" or twitter based web app built using (Jakarta EE 10):
+A simple MVC based "Posting" or twitter clone web app built using (Jakarta EE 10):
 
 - Servlet
 - JSP
